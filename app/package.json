@@ -1,0 +1,18 @@
+{
+  "name": "project27112024",
+  "version": "1.0.0",
+  "description": "practice k8s rabbitmq expressjs connection to azure cosmos db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yourior",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.5",
+    "express": "^4.21.1",
+    "ioredis": "^5.4.1",
+    "mongoose": "^8.8.3",
+    "path": "^0.12.7"
+  }
+}
